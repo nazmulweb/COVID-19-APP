@@ -6,7 +6,7 @@ export const Country = () => {
     return (
         <div>
             <Row>
-                <Col className="mb-5 text-center">Country</Col>
+                {/* <Col className="mb-5 text-center">Country</Col> */}
             </Row>
         </div>
     )
